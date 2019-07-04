@@ -1,1 +1,4 @@
 language: ruby
+notifications:
+  email:
+  - rafael@travis-ci.org
